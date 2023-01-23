@@ -1,0 +1,76 @@
+#conteneur{
+    border: red inset;
+    width: 500px;
+    height: 800px;
+    margin: 0px auto 0px auto;
+    position: relative;
+}
+#entete{
+    background-color: dimgray;
+    width: 500px;
+    height: 100px;
+}
+#entete2{
+    background-color: dimgray;
+    width: 200px;
+    height: 100px;
+    float: right;
+}
+#entete3{
+    background-color: dimgray;
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+#corps {
+    position: relative;
+    background-color: silver;
+    width: 500px;
+    height: 700px;
+}
+#texte{
+    background-color: gray;
+    width: 200px;
+    height: 700px;
+    display: block;
+    float: right;
+}
+#texte2{
+    background-color: darkgray;
+    width: 300px;
+    height: 700px;
+    display: block;
+    float: left;
+}
+
+.liste{
+    border: 2px solid black;
+}
+.liste2{
+    border: 2px solid black;
+}
+h3{
+    text-align: center;
+}
+hr{
+    border: 2px solid black;
+}
+img{
+    float: right;
+}
+#h2{
+    float: top;
+}
+#p{
+    float: bottom;
+}
+p{
+    margin-left: 5px;
+}
+/*#pied{
+    background-color: dimgray;
+    width: 600px;
+    height: 200px;
+}
+dimension en pourcentage pour tout le corp
+ajouter un pied */
